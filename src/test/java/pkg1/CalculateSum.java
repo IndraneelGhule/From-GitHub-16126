@@ -9,6 +9,8 @@ public class CalculateSum {
     @Parameters("str")
     public void M1(String str){
         System.out.println("Hi**********************8"+str);
+
+        System.out.println("Hi**********************8"+str);
     }
 
 
